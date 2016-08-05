@@ -1,0 +1,32 @@
+_repo: The-Splendid-Spur--13-Being-Memoirs-of-the-Adventures-of-Mr.-John-Marvel-a-Servant-of-His-Late__6437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, Sir Arthur Thomas
+    - Q
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Arthur Thomas
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Charles I, 1625-1649 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: "The Splendid Spur\r\nBeing Memoirs of the Adventures of Mr. John Marvel, a\
+  \ Servant of His Late Majesty King Charles I, in the Years 1642-3"
+url: http://www.gutenberg.org/ebooks/6437
